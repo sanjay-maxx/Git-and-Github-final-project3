@@ -13,3 +13,4 @@ Simple Interest (SI) = (P * R * T) / 100
 - Rate = 5%
 - Time = 2 years
 - Simple Interest = (1000 * 5 * 2) / 100 = 100
+-
